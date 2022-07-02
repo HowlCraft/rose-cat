@@ -1,2 +1,3 @@
-# wind-chimes
-Startpage themed for the xfce rose pine color scheme
+# water-cat
+
+This is storage for startpages on browser.
