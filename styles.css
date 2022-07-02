@@ -1,6 +1,6 @@
 body {
 	background: #1f1d2e;
-	color: #e0def4;
+	color: #f6c177;
 	font-family: 'Comfortaa', cursive;
 	text-align: center;
 	margin: 7em;
@@ -8,8 +8,8 @@ body {
 }
 
 h2 {
-        background: #26233a;
-	color: #ebbcba;
+        background: #44415a;
+	color: #ea9a97;
 	text-align: center;
 }
 
@@ -29,7 +29,7 @@ img {
 
 a {
 	text-decoration: none;
-	color: #ebbcba;
+	color: #e0def4;
 }
 
 a:hover {
