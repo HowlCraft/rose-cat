@@ -1,6 +1,6 @@
 body {
-	background: #4A2E3C;
-	color: PaleTurquoise;
+	background: #1f1d2e;
+	color: #e0def4;
 	font-family: 'Comfortaa', cursive;
 	text-align: center;
 	margin: 7em;
@@ -8,7 +8,8 @@ body {
 }
 
 h2 {
-	color: #0B7371;
+        background: #26233a;
+	color: #ebbcba;
 	text-align: center;
 }
 
@@ -28,7 +29,11 @@ img {
 
 a {
 	text-decoration: none;
-	color: Cornsilk
+	color: #ebbcba
+}
+
+a:hover {
+	color: #9ccfd8;
 }
 
 .bookmark-container {
